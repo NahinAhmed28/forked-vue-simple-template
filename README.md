@@ -1,29 +1,30 @@
-# Vue 3 with Bootstrap 5
+# Forked Vue Simple Template
 
-## About this repository
-This repository provides a simple authentication UI build on Vue 3. You can fork this repository for your frontend application and olso if you are familiar with Laravel, you can even use backend repository on link below.
+Forked Vue Simple Template is a Vue 3 and Bootstrap 5 starter/template repository. It can be used as a lightweight base for building Vue interfaces with Bootstrap styling.
 
-- Laravel API's [repository](https://github.com/lindritkrasniqi/sanctum-auth-template).
+## Project Details
 
-## Project setup
-```
+- Repository: `NahinAhmed28/forked-vue-simple-template`
+- Default branch: `main`
+- Visibility: public
+- Project type: Vue template
+- Main focus: Vue 3 with Bootstrap 5 setup
+
+## Getting Started
+
+```bash
+git clone https://github.com/NahinAhmed28/forked-vue-simple-template.git
+cd forked-vue-simple-template
 npm install
+npm run dev
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Create a production build with:
 
-### Compiles and minifies for production
-```
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Notes
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Document any custom components, theme changes, or usage instructions as the template is adapted.
