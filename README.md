@@ -1,14 +1,25 @@
 # Forked Vue Simple Template
 
-Forked Vue Simple Template is a Vue 3 and Bootstrap 5 starter/template repository. It can be used as a lightweight base for building Vue interfaces with Bootstrap styling.
+Forked Vue Simple Template is a Vue 3 and Bootstrap 5 starter/template repository.
 
-## Project Details
+## Features
 
-- Repository: `NahinAhmed28/forked-vue-simple-template`
-- Default branch: `main`
-- Visibility: public
-- Project type: Vue template
-- Main focus: Vue 3 with Bootstrap 5 setup
+- Vue 3 starter structure
+- Bootstrap 5 styling foundation
+- Reusable template for simple apps
+- Development and production build workflow
+
+## Modules
+
+- App module: root Vue application setup
+- Component module: reusable UI components
+- Style module: Bootstrap and custom CSS
+- Asset module: images and static resources
+- Build module: package scripts and bundler configuration
+
+## System Architecture
+
+The template follows a client-side Vue architecture. Vue renders components in the browser, Bootstrap supplies styling patterns, and the build tool compiles assets for development or production. New projects can add API services, routing, or state management as needed.
 
 ## Getting Started
 
@@ -18,13 +29,3 @@ cd forked-vue-simple-template
 npm install
 npm run dev
 ```
-
-Create a production build with:
-
-```bash
-npm run build
-```
-
-## Notes
-
-Document any custom components, theme changes, or usage instructions as the template is adapted.
